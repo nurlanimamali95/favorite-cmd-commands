@@ -22,4 +22,4 @@ It means Make Directory. Basically we use this command when we want to create a 
 
 5. **LS**
 
-_LS_ means list. It shows all the files and folders in the directory. If you also want to see hidden files, you just add _-a_ to _ls_.
+_LS_ means list. It shows all the files and folders in the directory. If you also want to see hidden files you just add _-a_ to _ls_.
