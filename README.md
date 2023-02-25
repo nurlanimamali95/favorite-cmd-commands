@@ -1,6 +1,6 @@
 # favorite-cmd-commands
 
-# H1 The list of my favorite bash commands
+#The list of my favorite bash commands
 
 ---
 
